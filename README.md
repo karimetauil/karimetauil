@@ -1,4 +1,4 @@
-Olá, eu sou a Karime Tauil! 😎
+<img src="https://user-images.githubusercontent.com/106276964/196267095-74cf698a-6f05-44c3-980b-239497f8e31d.png" width=80px> Olá, eu sou a Karime Tauil! 
 <br>
 <br>
 <br>
