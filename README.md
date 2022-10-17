@@ -36,9 +36,9 @@ Olá, eu sou a Karime Tauil! 😎
           
 <img src="https://user-images.githubusercontent.com/106276964/195896080-f3d5e56e-9293-4fa7-bd2b-5cfe7c025424.png" width=30px> (11) 97219-9339
       
-<img src="https://user-images.githubusercontent.com/106276964/195895060-cf3039bb-2705-4fbb-868a-7bb9bc0a3258.png" width=30px> wwww.linkedin.com/in/karime-tauil
+<img src="https://user-images.githubusercontent.com/106276964/195895060-cf3039bb-2705-4fbb-868a-7bb9bc0a3258.png" width=30px> www.linkedin.com/in/karime-tauil
 
-<img src="https://user-images.githubusercontent.com/106276964/195895542-8031f22d-4a6f-4aaa-8d14-7d09a4c82302.png" width=30px>
+<img src="https://user-images.githubusercontent.com/106276964/195895542-8031f22d-4a6f-4aaa-8d14-7d09a4c82302.png" width=30px> https://github.com/karimetauil
 
 <img src="https://user-images.githubusercontent.com/106276964/195898528-ddc8534a-47e2-4f1a-affb-18ed77d7214f.png" width=30px> karimeupd@hotmail.com
 
