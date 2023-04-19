@@ -32,15 +32,15 @@
 <br>
 <br>
  
-<img src="https://user-images.githubusercontent.com/106276964/195898939-cf1c2f46-15bd-4c94-9e2a-d5145a37cbd2.png" width=80px> Contatos:      
+<img src="https://user-images.githubusercontent.com/106276964/195898939-cf1c2f46-15bd-4c94-9e2a-d5145a37cbd2.png" width=80px>  Contatos:      
           
-<img src="https://user-images.githubusercontent.com/106276964/195896080-f3d5e56e-9293-4fa7-bd2b-5cfe7c025424.png" width=30px> (11) 97219-9339
+<img align="center" src="https://user-images.githubusercontent.com/106276964/195896080-f3d5e56e-9293-4fa7-bd2b-5cfe7c025424.png" width=30px> &nbsp; (11) 97219-9339
       
-<img src="https://user-images.githubusercontent.com/106276964/195895060-cf3039bb-2705-4fbb-868a-7bb9bc0a3258.png" width=30px> www.linkedin.com/in/karime-tauil
+<img align="center" src="https://user-images.githubusercontent.com/106276964/195895060-cf3039bb-2705-4fbb-868a-7bb9bc0a3258.png" width=30px> &nbsp; www.linkedin.com/in/karime-tauil
 
-<img src="https://user-images.githubusercontent.com/106276964/195895542-8031f22d-4a6f-4aaa-8d14-7d09a4c82302.png" width=30px> https://github.com/karimetauil
+<img align="center" src="https://user-images.githubusercontent.com/106276964/195895542-8031f22d-4a6f-4aaa-8d14-7d09a4c82302.png" width=30px> &nbsp; https://github.com/karimetauil
 
-<img src="https://user-images.githubusercontent.com/106276964/195898528-ddc8534a-47e2-4f1a-affb-18ed77d7214f.png" width=30px> karimeupd@hotmail.com
+<img align="center" src="https://user-images.githubusercontent.com/106276964/195898528-ddc8534a-47e2-4f1a-affb-18ed77d7214f.png" width=30px> &nbsp; karimeupd@hotmail.com
 <br>
 <br>
 <br>
