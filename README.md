@@ -49,4 +49,4 @@
 <br>
 <br>
 <br>
-https://github.com/karimetauil/karimetauil/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/karimetauil/karimetauil/blob/output/github-contribution-grid-snake.svg)
