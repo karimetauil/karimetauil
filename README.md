@@ -5,7 +5,7 @@
 
 <img src="https://user-images.githubusercontent.com/106276964/195896682-7d916f81-2c6f-4529-8484-404e941c5b45.png" width=80px> Formação Academica:
 - UNG 
-- FMU (Análise e Desenvolvimento de Sistemas - Cursando)
+- UNINOVE (Análise e Desenvolvimento de Sistemas - Cursando)
 - DEV CLUB (Full Stack - Cursando)
 <br>
 <br>
@@ -49,4 +49,3 @@
 <br>
 <br>
 <br>
-![Snake animation](https://github.com/karimetauil/karimetauil/blob/output/github-contribution-grid-snake.svg)
