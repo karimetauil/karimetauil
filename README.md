@@ -24,13 +24,6 @@
 <br>
 <br>
 <br>
-
-<img src="https://user-images.githubusercontent.com/106276964/196263498-b60d7b2d-ed6b-4d5b-984d-4dcf21586e35.png" width=80px> Próximas tecnologias que irei estudar:
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" width=75px>   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node-logo" width=90px>
-<br>
-<br>
-<br>
  
 <img src="https://user-images.githubusercontent.com/106276964/195898939-cf1c2f46-15bd-4c94-9e2a-d5145a37cbd2.png" width=80px>  Contatos:      
           
